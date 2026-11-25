@@ -14,6 +14,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "GenericErrorSample"
+rootProject.name = "CmsContentSampleApp"
 
 include(":app")
